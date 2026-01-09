@@ -1,4 +1,4 @@
-# UAssetAPI.Lightweight
+# UAssetAPI -Lightweight
 
 A lightweight fork of [UAssetAPI](https://github.com/atenfyr/UAssetAPI) - a low-level .NET library for reading and writing Unreal Engine game assets.
 
