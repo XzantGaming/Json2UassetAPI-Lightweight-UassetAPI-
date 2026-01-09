@@ -1,4 +1,4 @@
-# UAssetAPI -Lightweight
+# UAssetAPI - Lightweight
 
 A lightweight fork of [UAssetAPI](https://github.com/atenfyr/UAssetAPI) - a low-level .NET library for reading and writing Unreal Engine game assets.
 
@@ -17,8 +17,6 @@ The following have been removed to reduce size and dependencies:
 - **Kismet bytecode parsing** - Blueprint bytecode is preserved as raw bytes instead of being parsed
 - **PAK file support** - No repak integration (removed ~6.5MB of native binaries)
 - **Ace Combat 7 encryption** - Game-specific decryption removed
-- **Tests and benchmarks** - Development-only projects removed
-- **Documentation** - Removed to reduce size
 
 ## Usage
 
